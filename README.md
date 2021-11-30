@@ -1,0 +1,6 @@
+- Hi, I’m Victor Mayer.
+- I'm from Curitiba, Brazil.
+- I'm electrical engineer.
+- I'm interested in learning more about development and improving my skills.
+- I’m currently learning HTML, CSS and JS.
+- My hobbies are language learning (currently learning japanese) and cooking.
