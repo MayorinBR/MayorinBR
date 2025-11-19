@@ -4,3 +4,4 @@
 - I'm interested in learning more about development and improving my skills.
 - I’m currently learning Game development.
 - My hobbies are language learning (currently learning japanese) and cooking.
+- Living in Tokyo, Japan right now.
